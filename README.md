@@ -4,15 +4,10 @@
 
 - 🔭 I’m currently working on React JS Project
 - 🌱 I’m currently learning everything about Programing 🤣
-- 👯 I’m looking to collaborate on YouTube
+- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UC2j6TOUynsncSLbaKppO8FQ)
 - 🥅 About My Goal: Rect JS, React Native, Node JS, MongoDB, React JS, Express JS
 - 📫 How to reach me: mehadi.cosmo@gmail.com
 - ⚡ Fun fact: I love to explore unknown things.
-
-### Connect with me:
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehadi-hasan-803012211/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mehadi.hasan.3914207/) 
 
 
 ### Languages and Tools:
@@ -79,3 +74,8 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mehadiHasanDiner&card_width=550)](https://github.com/mehadiHasanDiner)
 
 [Mehadi Hasan]: https://goofy-pare-c477b3.netlify.app/
+
+### Connect with me:
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehadi-hasan-803012211/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mehadi.hasan.3914207/) 
