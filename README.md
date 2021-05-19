@@ -1,15 +1,13 @@
-### Helo, I'm Mehadi Hasan 👋
+### Helo, I'm [Mehadi Hasan] [website] 👋
 
-### I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🔭 I’m currently working on React JS Project
 - 🌱 I’m currently learning everything about Programing 🤣
 - 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🥅 About My Goal: Rect JS, React Native, Node JS, MongoDB, React JS, Express JS
+- 📫 How to reach me: mehadi.cosmo@gmail.com
+- ⚡ Fun fact: I love to explore unknown things.
 
 
 
