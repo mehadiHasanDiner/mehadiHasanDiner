@@ -1,4 +1,4 @@
-### Helo, I'm [Mehadi Hasan] 👋
+### Hello, I'm [Mehadi Hasan] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
