@@ -11,53 +11,54 @@
 
 
 ### Languages and Tools:
+
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="22px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
+    <img align="left" alt="html" width="20px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="17px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
+    <img align="left" alt="html" width="20px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="17px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
+    <img align="left" alt="html" width="27px" title="SCSS" src= "https://cdn.worldvectorlogo.com/logos/sass-1.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="22px" title="JavaScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/javascript.svg"/>
+    <img align="left" alt="html" width="25px" title="JavaScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/javascript.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="22px" title="TypeScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/typescript.svg"/>
+    <img align="left" alt="html" width="25px" title="ReactJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/react-2.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="22px" title="ReactJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/react-2.svg"/>
+    <img align="left" alt="html" width="37px" title="NodeJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nodejs.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="34px" title="NodeJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nodejs.svg"/>
+    <img align="left" alt="html" width="25px" title="TypeScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/typescript.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="24px" height="25px" title="MongoDB" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
+    <img align="left" alt="html" width="27px" height="25px" title="MongoDB" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner" style="display: inline-block">
-    <img align="left" alt="html" width="40px" height="25px" title="ExpressJS" src="https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg">
+    <img align="left" alt="html" width="43px" height="25px" title="ExpressJS" src="https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg">
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="18px" title="Firebase" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/firebase.svg"/>
+    <img align="left" alt="html" width="21px" title="Firebase" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/firebase.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="25px" title="Netlify" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/netlify.svg"/>
+    <img align="left" alt="html" width="28px" title="Netlify" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/netlify.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="24px" title="Heroku" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/heroku.svg"/>
+    <img align="left" alt="html" width="27px" title="Heroku" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/heroku.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="25px" title="Git" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/git.svg"/>
+    <img align="left" alt="html" width="28px" title="Git" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/git.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="25px" title="Github" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/github.svg"/>
+    <img align="left" alt="html" width="28px" title="Github" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/github.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/wordpress.svg"/>
+    <img align="left" alt="html" width="28px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/wordpress.svg"/>
 </a>
 <a href="https://github.com/mehadiHasanDiner">
-   <img align="left" alt="html" width="35px" height="25px" title="CPanel" src="https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg" style="max-width:100%;">
+    <img align="left" alt="html" width="25px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
 </a>
 
 
