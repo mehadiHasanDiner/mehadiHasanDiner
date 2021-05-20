@@ -61,11 +61,11 @@
     <img align="left" alt="html" width="25px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
 </a>
 
+<a href="https://github.com/mehadiHasanDiner">
+    <img align="left" alt="html" width="25px" title="Visual Studio Code" src= "https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+</a>
 
 <br />
-
-<br />
-
 <br />
 <br />
 
