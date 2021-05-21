@@ -74,7 +74,7 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mehadiHasanDiner&card_width=550)](https://github.com/mehadiHasanDiner)
 
-[Mehadi Hasan]: https://goofy-pare-c477b3.netlify.app/
+[Mehadi Hasan]: https://mehadi-hasan-protfolio.netlify.app/
 
 ### Connect with me:
 
